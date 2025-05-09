@@ -4,8 +4,8 @@ This project collect some dataset for EDA Floorplanning. Thanks to the authors f
 Below table list all date source
 | Name         | Folder            | website                                               | comment                                                                                                     |
 | ------------ | ----------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| GSRC         | GSRC              | [MCNC](http://vlsicad.eecs.umich.edu/BK/MCNCbench/)   | format at [link](https://vlsicad.ucsd.edu/GSRC/bookshelf/Slots/Fundamental/HGraph/HGraph1.1.html)           |
-| MCNC         | MCNC              | [MCNC](http://vlsicad.eecs.umich.edu/BK/GSRCbench/)   |                                                                                                             |
+| GSRC         | GSRC              | [GSRC](http://vlsicad.eecs.umich.edu/BK/GSRCbench/)   | format at [link](https://vlsicad.ucsd.edu/GSRC/bookshelf/Slots/Fundamental/HGraph/HGraph1.1.html)           |
+| MCNC         | MCNC              | [MCNC](http://vlsicad.eecs.umich.edu/BK/MCNCbench/)   |                                                                                                             |
 | IBM02/IBMHB+ | IBM02 IBMHB+      | [link](http://vlsicad.eecs.umich.edu/BK/ISPD06bench/) | format at [link](http://vlsicad.eecs.umich.edu/BK/ISPD06bench/BookshelfFormat.txt)                          |
 | ami49_x      | MCNC/SOFT/ami49_x | None                                                  | This case copy from MCNC, only use in PeF: Poisson’s Equation-Based Large-Scale Fixed-Outline Floorplanning |
 | test         | test              | None                                                  | this is a small case for debug                                                                              |
