@@ -1,0 +1,129 @@
+# UCLA blocks 1.0
+# Created      :  Sat Jan 16 16:24:11 2021
+# User         :  shizhilvren@foxmail.com
+# Platform     :  时之旅人
+
+NumSoftRectangularBlocks : 98
+NumHardRectilinearBlocks : 0
+NumTerminals : 22
+M001_0	softrectangular	220946.88	0.528	1.893
+M002_0	softrectangular	41771.52	0.432	2.312
+M003_0	softrectangular	88058.88	0.461	2.166
+M004_0	softrectangular	198352.0	0.522	1.913
+M005_0	softrectangular	29494.08	0.383	2.605
+M006_0	softrectangular	65691.36	0.473	2.111
+M007_0	softrectangular	12152.0	0.403	2.479
+M008_0	softrectangular	32096.96	0.516	1.934
+M009_0	softrectangular	18110.4	0.471	2.121
+M010_0	softrectangular	7244.16	0.477	2.095
+M011_0	softrectangular	12489.12	0.457	2.185
+M012_0	softrectangular	12959.52	0.508	1.965
+M013_0	softrectangular	7150.08	0.395	2.526
+M014_0	softrectangular	15005.76	0.439	2.275
+M015_0	softrectangular	13641.6	0.483	2.068
+M016_0	softrectangular	10278.24	0.403	2.478
+M017_0	softrectangular	11854.08	0.518	1.928
+M018_0	softrectangular	16903.04	0.363	2.750
+M019_0	softrectangular	12951.68	0.474	2.107
+M020_0	softrectangular	8043.84	0.315	3.166
+M021_0	softrectangular	12951.68	0.474	2.107
+M022_0	softrectangular	13861.12	0.382	2.615
+M023_0	softrectangular	22226.4	0.432	2.314
+M024_0	softrectangular	8490.72	0.333	3.000
+M025_0	softrectangular	10097.92	0.410	2.434
+M026_0	softrectangular	10192.0	0.480	2.080
+M027_0	softrectangular	12230.4	0.433	2.307
+M028_0	softrectangular	22046.08	0.486	2.054
+M029_0	softrectangular	19482.4	0.492	2.028
+M030_0	softrectangular	37914.24	0.559	1.788
+M031_0	softrectangular	16464.0	0.373	2.678
+M032_0	softrectangular	11854.08	0.482	2.074
+M033_0	softrectangular	71971.2	0.503	1.985
+M034_0	softrectangular	25715.2	0.487	2.049
+M035_0	softrectangular	13390.72	0.459	2.178
+M036_0	softrectangular	17812.48	0.450	2.218
+M037_0	softrectangular	27283.2	0.459	2.174
+M038_0	softrectangular	17310.72	0.463	2.156
+M039_0	softrectangular	11415.04	0.464	2.153
+M040_0	softrectangular	13610.24	0.451	2.214
+M041_0	softrectangular	12434.24	0.426	2.346
+M042_0	softrectangular	2540.16	0.444	2.250
+M043_0	softrectangular	19364.8	0.584	1.710
+M044_0	softrectangular	32810.4	0.483	2.066
+M045_0	softrectangular	31234.56	0.578	1.729
+M046_0	softrectangular	24272.64	0.418	2.388
+M047_0	softrectangular	14096.32	0.534	1.870
+M048_0	softrectangular	37914.24	0.559	1.788
+M049_0	softrectangular	11634.56	0.528	1.892
+M001_1	softrectangular	220946.88	0.528	1.893
+M002_1	softrectangular	41771.52	0.432	2.312
+M003_1	softrectangular	88058.88	0.461	2.166
+M004_1	softrectangular	198352.0	0.522	1.913
+M005_1	softrectangular	29494.08	0.383	2.605
+M006_1	softrectangular	65691.36	0.473	2.111
+M007_1	softrectangular	12152.0	0.403	2.479
+M008_1	softrectangular	32096.96	0.516	1.934
+M009_1	softrectangular	18110.4	0.471	2.121
+M010_1	softrectangular	7244.16	0.477	2.095
+M011_1	softrectangular	12489.12	0.457	2.185
+M012_1	softrectangular	12959.52	0.508	1.965
+M013_1	softrectangular	7150.08	0.395	2.526
+M014_1	softrectangular	15005.76	0.439	2.275
+M015_1	softrectangular	13641.6	0.483	2.068
+M016_1	softrectangular	10278.24	0.403	2.478
+M017_1	softrectangular	11854.08	0.518	1.928
+M018_1	softrectangular	16903.04	0.363	2.750
+M019_1	softrectangular	12951.68	0.474	2.107
+M020_1	softrectangular	8043.84	0.315	3.166
+M021_1	softrectangular	12951.68	0.474	2.107
+M022_1	softrectangular	13861.12	0.382	2.615
+M023_1	softrectangular	22226.4	0.432	2.314
+M024_1	softrectangular	8490.72	0.333	3.000
+M025_1	softrectangular	10097.92	0.410	2.434
+M026_1	softrectangular	10192.0	0.480	2.080
+M027_1	softrectangular	12230.4	0.433	2.307
+M028_1	softrectangular	22046.08	0.486	2.054
+M029_1	softrectangular	19482.4	0.492	2.028
+M030_1	softrectangular	37914.24	0.559	1.788
+M031_1	softrectangular	16464.0	0.373	2.678
+M032_1	softrectangular	11854.08	0.482	2.074
+M033_1	softrectangular	71971.2	0.503	1.985
+M034_1	softrectangular	25715.2	0.487	2.049
+M035_1	softrectangular	13390.72	0.459	2.178
+M036_1	softrectangular	17812.48	0.450	2.218
+M037_1	softrectangular	27283.2	0.459	2.174
+M038_1	softrectangular	17310.72	0.463	2.156
+M039_1	softrectangular	11415.04	0.464	2.153
+M040_1	softrectangular	13610.24	0.451	2.214
+M041_1	softrectangular	12434.24	0.426	2.346
+M042_1	softrectangular	2540.16	0.444	2.250
+M043_1	softrectangular	19364.8	0.584	1.710
+M044_1	softrectangular	32810.4	0.483	2.066
+M045_1	softrectangular	31234.56	0.578	1.729
+M046_1	softrectangular	24272.64	0.418	2.388
+M047_1	softrectangular	14096.32	0.534	1.870
+M048_1	softrectangular	37914.24	0.559	1.788
+M049_1	softrectangular	11634.56	0.528	1.892
+
+N024	terminal
+N023	terminal
+N022	terminal
+N021	terminal
+N020	terminal
+N019	terminal
+N017	terminal
+N016	terminal
+N015	terminal
+N014	terminal
+N013	terminal
+N012	terminal
+N011	terminal
+N010	terminal
+N009	terminal
+N008	terminal
+N006	terminal
+N005	terminal
+N004	terminal
+N003	terminal
+N002	terminal
+N001	terminal

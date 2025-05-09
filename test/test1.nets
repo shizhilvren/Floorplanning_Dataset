@@ -1,0 +1,66 @@
+UCLA nets 1.0
+# Created      : Tue Nov 07 17:53:04 PST 2000
+# User         : huaizhi@olympus
+# Platform     : SunOS 5.6 sparc
+
+NumNets : 12
+NumPins : 12
+
+
+NetDegree : 2
+pr B 
+b1 B : %50.0 %0
+
+NetDegree : 2
+pt B 
+b1 B : %0.0 %50.0
+
+
+NetDegree : 2
+b1 B : %0.0 %-50.0
+b2 B : %0.0 %50.0
+
+
+NetDegree : 2
+pl B 
+b2 B : %-50.0 %0
+
+
+
+
+NetDegree : 2
+
+b2 B : %0.0 %-50.0
+pb B 
+
+NetDegree : 3
+
+b2 B : %50.0 %50.0
+pb B 
+b1 B : %50.0 %-50.0
+
+NetDegree : 2
+pl B
+b3 B : %-50.0 %-50.0
+
+NetDegree : 2
+pr B
+b3 B : %50.0 %50.0
+
+NetDegree : 2
+pb B
+b4 B :  %-50.0 %-50.0
+
+NetDegree : 2
+pr B
+b4 B : %50.0 %50.0
+
+
+NetDegree : 2
+pl B
+b5 B : %-50.0 %-50.0
+
+NetDegree : 2
+pt B
+b5 B : %50.0 %50.0
+
